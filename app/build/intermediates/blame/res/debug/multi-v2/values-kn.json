@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\FeelSoWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "outputFile": "C:\\Users\\pok_s\\FeelSoWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lhs02\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ff1f7714b87ecb64af478fe435a032d3\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e4d29572bb7604c1aade45e5e51c27e3\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lhs02\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\585bcd9ca594e0aaac745a6a6e06cfb7\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\eab9431f8103b93bc026be2a7a015c4a\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
