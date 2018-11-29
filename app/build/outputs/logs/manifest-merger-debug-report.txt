@@ -1,103 +1,689 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\585bcd9ca594e0aaac745a6a6e06cfb7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9fd7ba6a01bd2b0d5e3d16a172611c96\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\51d7745447bdaca16c6a4af6a2e79bb0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f9fb2e38ce7862ae4f6613c3fecdfc9f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cbbf800ad1d35ddb9f25fd1f3f6fac39\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d53756dc4d7d9d167dadb3b3861d37bb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8e8a0989e25b4725b1d882b35abc58b3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ff1f7714b87ecb64af478fe435a032d3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8286dab5e25ae377160e883ee2d863dc\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\254d1a4c11ee9d1eb82998cd5f14f375\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b230cb3de61a720631b3e38c1a2ecb4f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3fa55c19be1ee3631674aadfe8eb7bd8\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/81e1e9978a4b957381b33cdfcf11b16a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/0ae21aff1986a33e3ebe394dab712e19/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/18b160f610b87224eb87da71a4f9fbd1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/437de1e166c625c7602fe3128cc1c1c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/17a61d3ba32c05591c615861219f25db/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/516bde79a37d44b33dfd58afa1297940/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.4.aar/b0bc7fe24bf3dca9eb526e1db35b722e/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/37cdebe4f422d00a634637e6c408a057/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.4.aar/a73481f2dd6f402d543bab5cd423ae24/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/b44d1106f7ad3c5db13eb48711dd9195/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/00c9f9d260876c5394c7c6dfd0904f52/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/179bf15fef6a8db699a97f5ed445af58/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/c7da8ed6349b09c1b69ed533af4d0c85/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/8be17956a8cc0f13796edad66b15d65f/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/b3478e19b1530274fa597d999db1fbd9/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/3d8d21f3c4600b82cec625697599e671/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/47c97745fe8efa6147f80a332dbc0550/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/9fa250158b90a4cd8015a31c3dfef845/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/1b78eb6104ef96b6d607ef88660497fe/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/eb7c4301da832b9cd98ea2731ae27140/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/0dba6919beeb6adab5007f3013575e6d/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.4.aar/b432b97029dbe2411519ce7612653db3/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/8806857b3dc18fc2745cbb6d434a2389/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/46c165bdc4fda1f23884b0f172de72b7/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/a9cec6b65a69c771e0a194b28879cadc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/88c024593e9bd5c841a339d3fcb70472/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/938f52ea525461cbc2e3ff43a3ac5f0c/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/c2d50fda8dfa7e87d8cd80adb603f207/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/994603786fe26ef3facfa4244c27fd38/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/7bc1df4dea9a6fdfa6e12179bcfe5df7/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/917906fc7db6f82d9650eb41b46e6946/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/cc1690167ea20113dbcb908a5bcdf7db/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/7b2fe6e820bf80b65b48cbb3c2dee054/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/2baa3b388654c14e3bd41d76d6f8d794/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/3ee99bf189fcccc3555e278e9571769a/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/d7dbc04c1eb3d87ca3d96014aa92fff8/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/b292fb2f4fea07453ca598eb10f20196/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/5aa0a5cdacaa093a20537d5698acd088/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/5a19d09dd8914d5318ed899b2787acb9/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/63cf0ac0db6c716c01f6f5cc8d461e64/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d9d31e992495de3b30e2ac3584f04ca6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d6daa1bdf6c9750723c8bd14296aaad3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c8f039d4d9a28f6c4556205d927126b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/5fc79191c7bd89a160792243f18fb265/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/56eca204d987e584ec7c453bdd02f53d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/64a8b94518a14a016b4b29f4d4562599/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e920a3d75a266de444693050b97f1915/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8c4855349110515725ec9bf034d6b6b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0aa29222a783bf9fa724a848b3b962e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/43ee706287db2adbde9d8a5fac66c6e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/74323fb7f0607fd91160c860ac65889c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/33111ac3085af5e15d9091b4f4332f09/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/cc1690167ea20113dbcb908a5bcdf7db/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/cc1690167ea20113dbcb908a5bcdf7db/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:7:22-76
 application
-ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9fd7ba6a01bd2b0d5e3d16a172611c96\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9fd7ba6a01bd2b0d5e3d16a172611c96\AndroidManifest.xml:9:5-20
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/81e1e9978a4b957381b33cdfcf11b16a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/81e1e9978a4b957381b33cdfcf11b16a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/0ae21aff1986a33e3ebe394dab712e19/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/0ae21aff1986a33e3ebe394dab712e19/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/18b160f610b87224eb87da71a4f9fbd1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/18b160f610b87224eb87da71a4f9fbd1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/17a61d3ba32c05591c615861219f25db/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/17a61d3ba32c05591c615861219f25db/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/37cdebe4f422d00a634637e6c408a057/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/37cdebe4f422d00a634637e6c408a057/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/00c9f9d260876c5394c7c6dfd0904f52/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/00c9f9d260876c5394c7c6dfd0904f52/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/179bf15fef6a8db699a97f5ed445af58/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/179bf15fef6a8db699a97f5ed445af58/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/c7da8ed6349b09c1b69ed533af4d0c85/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/c7da8ed6349b09c1b69ed533af4d0c85/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/8be17956a8cc0f13796edad66b15d65f/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/8be17956a8cc0f13796edad66b15d65f/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/b3478e19b1530274fa597d999db1fbd9/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/b3478e19b1530274fa597d999db1fbd9/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/3d8d21f3c4600b82cec625697599e671/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/3d8d21f3c4600b82cec625697599e671/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/47c97745fe8efa6147f80a332dbc0550/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/47c97745fe8efa6147f80a332dbc0550/AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/9fa250158b90a4cd8015a31c3dfef845/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/9fa250158b90a4cd8015a31c3dfef845/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/1b78eb6104ef96b6d607ef88660497fe/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/1b78eb6104ef96b6d607ef88660497fe/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/0dba6919beeb6adab5007f3013575e6d/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/0dba6919beeb6adab5007f3013575e6d/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/8806857b3dc18fc2745cbb6d434a2389/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/8806857b3dc18fc2745cbb6d434a2389/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/46c165bdc4fda1f23884b0f172de72b7/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/46c165bdc4fda1f23884b0f172de72b7/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/a9cec6b65a69c771e0a194b28879cadc/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/a9cec6b65a69c771e0a194b28879cadc/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/88c024593e9bd5c841a339d3fcb70472/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/88c024593e9bd5c841a339d3fcb70472/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/938f52ea525461cbc2e3ff43a3ac5f0c/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/938f52ea525461cbc2e3ff43a3ac5f0c/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/c2d50fda8dfa7e87d8cd80adb603f207/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/c2d50fda8dfa7e87d8cd80adb603f207/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/994603786fe26ef3facfa4244c27fd38/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/994603786fe26ef3facfa4244c27fd38/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/7bc1df4dea9a6fdfa6e12179bcfe5df7/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/7bc1df4dea9a6fdfa6e12179bcfe5df7/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/917906fc7db6f82d9650eb41b46e6946/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/917906fc7db6f82d9650eb41b46e6946/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/cc1690167ea20113dbcb908a5bcdf7db/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/cc1690167ea20113dbcb908a5bcdf7db/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/b292fb2f4fea07453ca598eb10f20196/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/b292fb2f4fea07453ca598eb10f20196/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/5aa0a5cdacaa093a20537d5698acd088/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/5aa0a5cdacaa093a20537d5698acd088/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/5a19d09dd8914d5318ed899b2787acb9/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/5a19d09dd8914d5318ed899b2787acb9/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/63cf0ac0db6c716c01f6f5cc8d461e64/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/63cf0ac0db6c716c01f6f5cc8d461e64/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d9d31e992495de3b30e2ac3584f04ca6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d9d31e992495de3b30e2ac3584f04ca6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/5fc79191c7bd89a160792243f18fb265/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/5fc79191c7bd89a160792243f18fb265/AndroidManifest.xml:22:5-23:19
 	android:supportsRtl
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:12:9-41
 	android:roundIcon
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:13:9-54
 	android:icon
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:11:9-43
 	android:allowBackup
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:15:9-40
 activity#com.wonju.yonsei.feelsoweather.MainActivity
-ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:16:9-18:20
 	android:name
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:16:19-47
+activity#com.wonju.yonsei.feelsoweather.SplashActivity
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:theme
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:19:19-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\585bcd9ca594e0aaac745a6a6e06cfb7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\585bcd9ca594e0aaac745a6a6e06cfb7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9fd7ba6a01bd2b0d5e3d16a172611c96\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9fd7ba6a01bd2b0d5e3d16a172611c96\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\51d7745447bdaca16c6a4af6a2e79bb0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\51d7745447bdaca16c6a4af6a2e79bb0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f9fb2e38ce7862ae4f6613c3fecdfc9f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f9fb2e38ce7862ae4f6613c3fecdfc9f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cbbf800ad1d35ddb9f25fd1f3f6fac39\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cbbf800ad1d35ddb9f25fd1f3f6fac39\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d53756dc4d7d9d167dadb3b3861d37bb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d53756dc4d7d9d167dadb3b3861d37bb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8e8a0989e25b4725b1d882b35abc58b3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8e8a0989e25b4725b1d882b35abc58b3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ff1f7714b87ecb64af478fe435a032d3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ff1f7714b87ecb64af478fe435a032d3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8286dab5e25ae377160e883ee2d863dc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8286dab5e25ae377160e883ee2d863dc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\254d1a4c11ee9d1eb82998cd5f14f375\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\254d1a4c11ee9d1eb82998cd5f14f375\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b230cb3de61a720631b3e38c1a2ecb4f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b230cb3de61a720631b3e38c1a2ecb4f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3fa55c19be1ee3631674aadfe8eb7bd8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lhs02\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3fa55c19be1ee3631674aadfe8eb7bd8\AndroidManifest.xml:20:5-44
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/81e1e9978a4b957381b33cdfcf11b16a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/81e1e9978a4b957381b33cdfcf11b16a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/0ae21aff1986a33e3ebe394dab712e19/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/0ae21aff1986a33e3ebe394dab712e19/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/18b160f610b87224eb87da71a4f9fbd1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/18b160f610b87224eb87da71a4f9fbd1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/437de1e166c625c7602fe3128cc1c1c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/437de1e166c625c7602fe3128cc1c1c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/17a61d3ba32c05591c615861219f25db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/17a61d3ba32c05591c615861219f25db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/516bde79a37d44b33dfd58afa1297940/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/516bde79a37d44b33dfd58afa1297940/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.4.aar/b0bc7fe24bf3dca9eb526e1db35b722e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.4.aar/b0bc7fe24bf3dca9eb526e1db35b722e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/37cdebe4f422d00a634637e6c408a057/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/37cdebe4f422d00a634637e6c408a057/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.4.aar/a73481f2dd6f402d543bab5cd423ae24/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.4.aar/a73481f2dd6f402d543bab5cd423ae24/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/b44d1106f7ad3c5db13eb48711dd9195/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/b44d1106f7ad3c5db13eb48711dd9195/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/00c9f9d260876c5394c7c6dfd0904f52/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/00c9f9d260876c5394c7c6dfd0904f52/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/179bf15fef6a8db699a97f5ed445af58/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/179bf15fef6a8db699a97f5ed445af58/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/c7da8ed6349b09c1b69ed533af4d0c85/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/c7da8ed6349b09c1b69ed533af4d0c85/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/8be17956a8cc0f13796edad66b15d65f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/8be17956a8cc0f13796edad66b15d65f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/b3478e19b1530274fa597d999db1fbd9/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/b3478e19b1530274fa597d999db1fbd9/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/3d8d21f3c4600b82cec625697599e671/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/3d8d21f3c4600b82cec625697599e671/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/47c97745fe8efa6147f80a332dbc0550/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/47c97745fe8efa6147f80a332dbc0550/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/9fa250158b90a4cd8015a31c3dfef845/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/9fa250158b90a4cd8015a31c3dfef845/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/1b78eb6104ef96b6d607ef88660497fe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/1b78eb6104ef96b6d607ef88660497fe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/eb7c4301da832b9cd98ea2731ae27140/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/eb7c4301da832b9cd98ea2731ae27140/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/0dba6919beeb6adab5007f3013575e6d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/0dba6919beeb6adab5007f3013575e6d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.4.aar/b432b97029dbe2411519ce7612653db3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.4.aar/b432b97029dbe2411519ce7612653db3/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/8806857b3dc18fc2745cbb6d434a2389/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/8806857b3dc18fc2745cbb6d434a2389/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/46c165bdc4fda1f23884b0f172de72b7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/46c165bdc4fda1f23884b0f172de72b7/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/a9cec6b65a69c771e0a194b28879cadc/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/a9cec6b65a69c771e0a194b28879cadc/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/88c024593e9bd5c841a339d3fcb70472/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/88c024593e9bd5c841a339d3fcb70472/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/938f52ea525461cbc2e3ff43a3ac5f0c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/938f52ea525461cbc2e3ff43a3ac5f0c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/c2d50fda8dfa7e87d8cd80adb603f207/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/c2d50fda8dfa7e87d8cd80adb603f207/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/994603786fe26ef3facfa4244c27fd38/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/994603786fe26ef3facfa4244c27fd38/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/7bc1df4dea9a6fdfa6e12179bcfe5df7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/7bc1df4dea9a6fdfa6e12179bcfe5df7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/917906fc7db6f82d9650eb41b46e6946/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/917906fc7db6f82d9650eb41b46e6946/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/cc1690167ea20113dbcb908a5bcdf7db/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/cc1690167ea20113dbcb908a5bcdf7db/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/7b2fe6e820bf80b65b48cbb3c2dee054/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/7b2fe6e820bf80b65b48cbb3c2dee054/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/2baa3b388654c14e3bd41d76d6f8d794/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/2baa3b388654c14e3bd41d76d6f8d794/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/3ee99bf189fcccc3555e278e9571769a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/3ee99bf189fcccc3555e278e9571769a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/d7dbc04c1eb3d87ca3d96014aa92fff8/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/d7dbc04c1eb3d87ca3d96014aa92fff8/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/b292fb2f4fea07453ca598eb10f20196/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/b292fb2f4fea07453ca598eb10f20196/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/5aa0a5cdacaa093a20537d5698acd088/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/5aa0a5cdacaa093a20537d5698acd088/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/5a19d09dd8914d5318ed899b2787acb9/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/5a19d09dd8914d5318ed899b2787acb9/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/63cf0ac0db6c716c01f6f5cc8d461e64/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/63cf0ac0db6c716c01f6f5cc8d461e64/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d9d31e992495de3b30e2ac3584f04ca6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/d9d31e992495de3b30e2ac3584f04ca6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d6daa1bdf6c9750723c8bd14296aaad3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d6daa1bdf6c9750723c8bd14296aaad3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c8f039d4d9a28f6c4556205d927126b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c8f039d4d9a28f6c4556205d927126b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/5fc79191c7bd89a160792243f18fb265/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/5fc79191c7bd89a160792243f18fb265/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/56eca204d987e584ec7c453bdd02f53d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/56eca204d987e584ec7c453bdd02f53d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/64a8b94518a14a016b4b29f4d4562599/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/64a8b94518a14a016b4b29f4d4562599/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e920a3d75a266de444693050b97f1915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e920a3d75a266de444693050b97f1915/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8c4855349110515725ec9bf034d6b6b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8c4855349110515725ec9bf034d6b6b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0aa29222a783bf9fa724a848b3b962e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0aa29222a783bf9fa724a848b3b962e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/43ee706287db2adbde9d8a5fac66c6e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/43ee706287db2adbde9d8a5fac66c6e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/74323fb7f0607fd91160c860ac65889c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/74323fb7f0607fd91160c860ac65889c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/33111ac3085af5e15d9091b4f4332f09/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/33111ac3085af5e15d9091b4f4332f09/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/63cf0ac0db6c716c01f6f5cc8d461e64/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
-		INJECTED from E:\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:7:18-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/a9cec6b65a69c771e0a194b28879cadc/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/a9cec6b65a69c771e0a194b28879cadc/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/a9aae754a1e3964dc067b8f027f55a90/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/31f7a6801f410262e97e3189a3489807/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/3c3c552f21ed551b17454e483f780717/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/64ca588ff412def3fb61eb2f4abe9ea9/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/f0d140794c24d9c74a7554b3e74f5971/AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/e18ad0f7110dab00ee57ba7babbba044/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/0e10bbf05938deaba465cfd0333d4aa6/AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/8f6dc846bc373f6f2fdbaf18c98930c0/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/1273f1834e4df58d660c382b8464d339/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/8f46be359fe8f48a320d14674777ba64/AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.wonju.yonsei.feelsoweather
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/c0b060fd9d961c3ac7da7b09a8f28a37/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/822884cb2cd7b18a88bbcf267e44a966/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/1f2852fb2e400182cc82bff1269f5805/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:24:17-71
+permission#com.wonju.yonsei.feelsoweather.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:26:22-76
+uses-permission#com.wonju.yonsei.feelsoweather.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.wonju.yonsei.feelsoweather
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:33:27-58
+category#com.wonju.yonsei.feelsoweather
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/85e744b23db2ebe7cc5f28e7790b15be/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/5b0c8c18246ea30f67e261662cbdd4c0/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/5a19d09dd8914d5318ed899b2787acb9/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/5a19d09dd8914d5318ed899b2787acb9/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/5a19d09dd8914d5318ed899b2787acb9/AndroidManifest.xml:20:20-65
