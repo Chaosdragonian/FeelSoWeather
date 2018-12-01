@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pok_s\\FeelSoWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "outputFile": "C:\\Users\\vmffk\\Downloads\\FeelSoWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\eab9431f8103b93bc026be2a7a015c4a\\res\\values-zh-rHK\\values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1487,1638,1732",
-                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,97,150,93,77",
-                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1482,1633,1727,1805"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e4d29572bb7604c1aade45e5e51c27e3\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "C:\\Users\\vmffk\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a83ab2f429e9ff2ea90cfc1a7641277a\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1810",
                         "endColumns": "101",
                         "endOffsets": "1907"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vmffk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4d16ebfa7879b85ec0271d7bef54c9c9\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1487,1638,1732",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,97,150,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1482,1633,1727,1805"
                     }
                 }
             ]

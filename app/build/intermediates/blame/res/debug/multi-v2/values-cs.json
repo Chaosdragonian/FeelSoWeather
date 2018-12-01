@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pok_s\\FeelSoWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+            "outputFile": "C:\\Users\\vmffk\\Downloads\\FeelSoWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\eab9431f8103b93bc026be2a7a015c4a\\res\\values-cs\\values-cs.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,212,314,423,509,614,731,812,893,977,1081,1190,1289,1395,1505,1612,1775,1873",
-                        "endColumns": "106,101,108,85,104,116,80,80,83,103,108,98,105,109,106,162,97,81",
-                        "endOffsets": "207,309,418,504,609,726,807,888,972,1076,1185,1284,1390,1500,1607,1770,1868,1950"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\e4d29572bb7604c1aade45e5e51c27e3\\res\\values-cs\\values-cs.xml",
+                    "source": "C:\\Users\\vmffk\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a83ab2f429e9ff2ea90cfc1a7641277a\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1955",
                         "endColumns": "100",
                         "endOffsets": "2051"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vmffk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4d16ebfa7879b85ec0271d7bef54c9c9\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,314,423,509,614,731,812,893,977,1081,1190,1289,1395,1505,1612,1775,1873",
+                        "endColumns": "106,101,108,85,104,116,80,80,83,103,108,98,105,109,106,162,97,81",
+                        "endOffsets": "207,309,418,504,609,726,807,888,972,1076,1185,1284,1390,1500,1607,1770,1868,1950"
                     }
                 }
             ]

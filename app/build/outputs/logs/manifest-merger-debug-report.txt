@@ -1,118 +1,118 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:design:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9ee277fca2671797a24566d747cd70d7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\eab9431f8103b93bc026be2a7a015c4a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b90b2d6e1ca893129ca84d0874b8a1f\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80f59e7b357f5dd8dd86dc365ff09ea5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8f2a4fcba1393501daddc61c3291e93d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c4d7c248f5dd3d2d09917291d10b8c47\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d0b2d2da94d3741b421eafddc26180a0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\128126f9e14010891da582e4f10a5519\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\688cfc5dac55a1fcd6c8a215efa1f99f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b94a1f06d7731933d2082c7abca540f4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d71c7b1938edc38595c75df4d0342e75\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ee3566c1e600762a0e1dc88f4f68954d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4d29572bb7604c1aade45e5e51c27e3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4ad1c707a1500e30c1a1669dfc946d14\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0d4f2594e36e24ac2446bc3f2c115b48\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c231eb38ebebc4497641a94ced2c39d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a28400a52fc6d68df04bc49aecd76e93\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9f353f64f2aae06d267ee0a7a9c9ecfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4d16ebfa7879b85ec0271d7bef54c9c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d3588ef68eff7a0b81ff811c1beb861c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27996a18ffe859d0ad3bdfa3d98e4dd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\28e024be1da290db646dbbcee2e2982d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\51ca0d29286624172f0eac3db19332e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\99148e2f1a0f5e85fa8d04dbd4dafc89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\92b897beadf751d55c0b2b33dd98b94d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a0229fc48cd56e8d3c6ad6dcf807208e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c44afe32f60bdb83389636427eaaa900\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2a72ced54a0b7d4cb1caa0b05eec1787\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\83022b58b21df34c469bb7949438e7ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a83ab2f429e9ff2ea90cfc1a7641277a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31cf5744117d4267661e266b5b737d8c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\981d6f251136d92e97d12395fadc2da4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e95cf10cec874010e412cf81c8748678\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e5cb7486943979b0fde7f2e1e2d2926\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b90b2d6e1ca893129ca84d0874b8a1f\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b90b2d6e1ca893129ca84d0874b8a1f\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d3588ef68eff7a0b81ff811c1beb861c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d3588ef68eff7a0b81ff811c1beb861c\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:11:9-52
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:11:9-52
 activity#com.wonju.yonsei.feelsoweather.MainActivity
-ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9ee277fca2671797a24566d747cd70d7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9ee277fca2671797a24566d747cd70d7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\eab9431f8103b93bc026be2a7a015c4a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\eab9431f8103b93bc026be2a7a015c4a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b90b2d6e1ca893129ca84d0874b8a1f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b90b2d6e1ca893129ca84d0874b8a1f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80f59e7b357f5dd8dd86dc365ff09ea5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80f59e7b357f5dd8dd86dc365ff09ea5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8f2a4fcba1393501daddc61c3291e93d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8f2a4fcba1393501daddc61c3291e93d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c4d7c248f5dd3d2d09917291d10b8c47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c4d7c248f5dd3d2d09917291d10b8c47\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d0b2d2da94d3741b421eafddc26180a0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d0b2d2da94d3741b421eafddc26180a0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\128126f9e14010891da582e4f10a5519\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\128126f9e14010891da582e4f10a5519\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\688cfc5dac55a1fcd6c8a215efa1f99f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\688cfc5dac55a1fcd6c8a215efa1f99f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b94a1f06d7731933d2082c7abca540f4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b94a1f06d7731933d2082c7abca540f4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d71c7b1938edc38595c75df4d0342e75\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d71c7b1938edc38595c75df4d0342e75\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ee3566c1e600762a0e1dc88f4f68954d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ee3566c1e600762a0e1dc88f4f68954d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4d29572bb7604c1aade45e5e51c27e3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4d29572bb7604c1aade45e5e51c27e3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4ad1c707a1500e30c1a1669dfc946d14\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4ad1c707a1500e30c1a1669dfc946d14\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0d4f2594e36e24ac2446bc3f2c115b48\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0d4f2594e36e24ac2446bc3f2c115b48\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c231eb38ebebc4497641a94ced2c39d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c231eb38ebebc4497641a94ced2c39d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a28400a52fc6d68df04bc49aecd76e93\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a28400a52fc6d68df04bc49aecd76e93\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9f353f64f2aae06d267ee0a7a9c9ecfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9f353f64f2aae06d267ee0a7a9c9ecfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4d16ebfa7879b85ec0271d7bef54c9c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4d16ebfa7879b85ec0271d7bef54c9c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d3588ef68eff7a0b81ff811c1beb861c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d3588ef68eff7a0b81ff811c1beb861c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27996a18ffe859d0ad3bdfa3d98e4dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\27996a18ffe859d0ad3bdfa3d98e4dd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\28e024be1da290db646dbbcee2e2982d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\28e024be1da290db646dbbcee2e2982d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\51ca0d29286624172f0eac3db19332e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\51ca0d29286624172f0eac3db19332e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\99148e2f1a0f5e85fa8d04dbd4dafc89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\99148e2f1a0f5e85fa8d04dbd4dafc89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\92b897beadf751d55c0b2b33dd98b94d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\92b897beadf751d55c0b2b33dd98b94d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a0229fc48cd56e8d3c6ad6dcf807208e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a0229fc48cd56e8d3c6ad6dcf807208e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c44afe32f60bdb83389636427eaaa900\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c44afe32f60bdb83389636427eaaa900\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2a72ced54a0b7d4cb1caa0b05eec1787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\2a72ced54a0b7d4cb1caa0b05eec1787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\83022b58b21df34c469bb7949438e7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\83022b58b21df34c469bb7949438e7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a83ab2f429e9ff2ea90cfc1a7641277a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a83ab2f429e9ff2ea90cfc1a7641277a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31cf5744117d4267661e266b5b737d8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\31cf5744117d4267661e266b5b737d8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\981d6f251136d92e97d12395fadc2da4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\981d6f251136d92e97d12395fadc2da4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e95cf10cec874010e412cf81c8748678\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e95cf10cec874010e412cf81c8748678\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e5cb7486943979b0fde7f2e1e2d2926\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vmffk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e5cb7486943979b0fde7f2e1e2d2926\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmffk\Downloads\FeelSoWeather\app\src\main\AndroidManifest.xml

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pok_s\\FeelSoWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\vmffk\\Downloads\\FeelSoWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\9ee277fca2671797a24566d747cd70d7\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\vmffk\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\9f353f64f2aae06d267ee0a7a9c9ecfb\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\eab9431f8103b93bc026be2a7a015c4a\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\vmffk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\4d16ebfa7879b85ec0271d7bef54c9c9\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
