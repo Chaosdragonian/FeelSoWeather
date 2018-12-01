@@ -1,6 +1,7 @@
 package com.wonju.yonsei.feelsoweather;
 
 
+import android.app.AlertDialog;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -9,6 +10,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.AdapterViewAnimator;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 
 
@@ -20,28 +22,42 @@ public class Fragment3 extends Fragment {
 
     public Fragment3() {
         // Required empty public constructor
-    }
+  }
 
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        final String[] title = { "미세먼지란?" , "미세먼지가 우리 건강에 미치는 영향", "미세먼지 대처요령"};
+        View view = inflater.inflate(R.layout.fragment_fragment3, container, false);
 
-        ListView list = (ListView) getView().findViewById(R.id.mList);
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, title);
-        list.setAdapter(adapter);
+        Button btn1 = (Button) view.findViewById(R.id.button1);
+        Button btn2 = (Button) view.findViewById(R.id.button2);
+        Button btn3 = (Button) view.findViewById(R.id.button3);
 
-        list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
+        btn1.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+
+
+
+            }
+        });
+        btn2.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+
+
+
+            }
+        });
+        btn3.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+
+
 
             }
         });
 
-
-        return inflater.inflate(R.layout.fragment_fragment3, container, false);
+        return view;
     }
 
 }
