@@ -232,6 +232,10 @@
         "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\eab9431f8103b93bc026be2a7a015c4a\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\pok_s\\FeelSoWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_item.xml.flat",
+        "source": "C:\\Users\\pok_s\\FeelSoWeather\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
         "merged": "C:\\Users\\pok_s\\FeelSoWeather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\pok_s\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\9ee277fca2671797a24566d747cd70d7\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },

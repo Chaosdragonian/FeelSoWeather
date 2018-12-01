@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
 
         pager.setAdapter(new FragmentAdapter(getSupportFragmentManager()));
         pager.setOffscreenPageLimit(3); // 안보이는 페이지 로딩해 놓을 갯수
-        sliding_tab.addTab(sliding_tab.newTab().setText("tab1"), 0, true); // 페이지 등록
-        sliding_tab.addTab(sliding_tab.newTab().setText("tab2"), 1);
-        sliding_tab.addTab(sliding_tab.newTab().setText("tab3"), 2);
+        sliding_tab.addTab(sliding_tab.newTab().setText("미세먼지"), 0, true); // 페이지 등록
+        sliding_tab.addTab(sliding_tab.newTab().setText("날씨"), 1);
+        sliding_tab.addTab(sliding_tab.newTab().setText("관련정보"), 2);
 
 
         sliding_tab.addOnTabSelectedListener(pagerListener);
