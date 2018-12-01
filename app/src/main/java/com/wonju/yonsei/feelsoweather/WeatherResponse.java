@@ -1,8 +1,10 @@
 package com.wonju.yonsei.feelsoweather;
 
-import java.util.ArrayList;
 import com.google.gson.Gson;
 import com.google.gson.annotations.SerializedName;
+
+import java.util.Date;
+import java.util.ArrayList;
 
 public class WeatherResponse {
     @SerializedName("coord") private Coord coord;
@@ -102,4 +104,40 @@ public class WeatherResponse {
         @SerializedName("speed") private double speed;
         @SerializedName("deg") private int direction;
     }
+    public Coord getCoordinates() { return coord; }
+
+    /**
+     * Returns the array of weather conditions
+     */
+    public Weather[] getWeatherConditions() {
+        Weather[] arr = new Weather[weather.size()];
+        return weather.toArray(arr);
+    }
+
+    public Main getMain() { return main; }
+
+    public int getVisibility() { return visibility; }
+
+    public Wind getWind() { return wind; }
+
+    public Clouds getClouds() { return clouds; }
+
+    public Precipitation getRain() { return rain; }
+
+    public Precipitation getSnow() { return snow; }
+
+    /**
+     * Returns java.util.Date representation of the timestamp
+     */
+    public Date getTimestamp() {
+        return new Date((long)(unixTimestamp * 1000));
+    }
+
+    public Sys getSysInfo() { return sys; }
+
+    public long getCityId() { return city_id; }
+
+    public String getCityName() { return city_name; }
+
+    public int getResponseCode() { return response_code; }
 }

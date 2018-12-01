@@ -31,6 +31,25 @@
                     }
                 },
                 {
+                    "source": "/Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a1ff0714dc1614bec80af22cb725e3d4/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "1066",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1243"
+                    }
+                },
+                {
                     "source": "/Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/18b160f610b87224eb87da71a4f9fbd1/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
