@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:design:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9ee277fca2671797a24566d747cd70d7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\eab9431f8103b93bc026be2a7a015c4a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b90b2d6e1ca893129ca84d0874b8a1f\AndroidManifest.xml:2:1-11:12
@@ -21,25 +21,25 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pok_s\.gradle\
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0d4f2594e36e24ac2446bc3f2c115b48\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c231eb38ebebc4497641a94ced2c39d\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a28400a52fc6d68df04bc49aecd76e93\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b90b2d6e1ca893129ca84d0874b8a1f\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\pok_s\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5b90b2d6e1ca893129ca84d0874b8a1f\AndroidManifest.xml:9:5-20
 	android:supportsRtl
@@ -68,6 +68,18 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.wonju.yonsei.feelsoweather.Activity1
+ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:19:9-47
+	android:name
+		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:19:19-44
+activity#com.wonju.yonsei.feelsoweather.Activity2
+ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:20:9-47
+	android:name
+		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:20:19-44
+activity#com.wonju.yonsei.feelsoweather.Activity3
+ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml:21:19-44
 uses-sdk
 INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\pok_s\FeelSoWeather\app\src\main\AndroidManifest.xml
