@@ -52,54 +52,55 @@
                 android:textSize="20dp" />
 
 
-
             <TextView
                 android:id="@+id/city"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="top"
-                android:layout_marginTop="50dp"
                 android:layout_marginLeft="80dp"
+                android:layout_marginTop="50dp"
                 android:text="SEOUL"
-                android:textSize="30dp"
-                android:textColor="#ffffff"/>
+                android:textColor="#ffffff"
+                android:textSize="30dp" />
 
             <TextView
                 android:id="@+id/tod"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="top"
-                android:layout_marginTop="1dp"
                 android:layout_marginLeft="80dp"
+                android:layout_marginTop="1dp"
                 android:text="Today.Feb.26"
-                android:textSize="20dp"
-                android:textColor="#ffffff"/>
+                android:textColor="#ffffff"
+                android:textSize="20dp" />
 
             <TextView
                 android:id="@+id/kang"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="bottom"
-                android:layout_marginTop="60dp"
                 android:layout_marginLeft="30dp"
+                android:layout_marginTop="60dp"
                 android:text="강수량"
-                android:textSize="18dp"
-                android:textColor="#ffffff"/>
+                android:textColor="#ffffff"
+                android:textSize="18dp" />
+
+
+
             <TextView
                 android:id="@+id/cloud"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="bottom"
-                android:layout_marginTop="50dp"
                 android:layout_marginLeft="30dp"
+                android:layout_marginTop="50dp"
                 android:text="구름양"
-                android:textSize="18dp"
-                android:textColor="#ffffff"/>
+                android:textColor="#ffffff"
+                android:textSize="18dp" />
 
 
 
         </LinearLayout>
-
 
 
     </LinearLayout>

@@ -101,6 +101,7 @@ import java.util.ArrayList;
         /**
          * The internal representation of the "main" portion of the API
          */
+
         public class Main {
             @SerializedName("temp") private double temp;
             @SerializedName("pressure") private double pressure;

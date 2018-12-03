@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [com.android.support:design:27.1.1] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a1ff0714dc1614bec80af22cb725e3d4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/81e1e9978a4b957381b33cdfcf11b16a/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:2:1-9:12
@@ -75,20 +75,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chaosdragon/.gra
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/43ee706287db2adbde9d8a5fac66c6e4/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/74323fb7f0607fd91160c860ac65889c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/33111ac3085af5e15d9091b4f4332f09/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:3:5-45
 		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
-		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
-		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:2:11-69
@@ -129,7 +129,7 @@ ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManife
 	android:name
 		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:7:22-76
 application
-ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:9:5-27:19
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:9:5-37:19
 MERGED from [com.google.android.gms:play-services:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/81e1e9978a4b957381b33cdfcf11b16a/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/81e1e9978a4b957381b33cdfcf11b16a/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/831eb821a093819434a432fa6968b98b/AndroidManifest.xml:4:5-8:19
@@ -234,6 +234,8 @@ MERGED from [com.android.support:palette-v7:25.2.0] /Users/chaosdragon/.gradle/c
 		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:15:9-59
 activity#com.wonju.yonsei.feelsoweather.MainActivity
 ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:16:9-18:20
+	android:parentActivityName
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:17:13-52
 	android:name
 		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:16:19-47
 activity#com.wonju.yonsei.feelsoweather.SplashActivity
@@ -252,6 +254,28 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
 		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.wonju.yonsei.feelsoweather.Activity1
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:27:9-28:75
+	android:theme
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:27:19-44
+activity#com.wonju.yonsei.feelsoweather.Activity2
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:29:9-33:75
+	android:parentActivityName
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:32:13-55
+	android:launchMode
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:30:13-44
+	android:theme
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:29:19-44
+activity#com.wonju.yonsei.feelsoweather.Activity3
+ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:34:9-35:75
+	android:theme
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:34:19-44
 uses-sdk
 INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml

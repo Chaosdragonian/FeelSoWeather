@@ -13,8 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".MainActivity">
-
+        <activity android:name=".MainActivity"
+            android:parentActivityName=".Activity2">
         </activity>
         <activity android:name=".SplashActivity"
             android:theme="@style/Theme.AppCompat.NoActionBar">
@@ -24,6 +24,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Activity1"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+        <activity android:name=".Activity2"
+            android:launchMode="singleTask"
+
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+        <activity android:name=".Activity3"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+
     </application>
 
 </manifest>

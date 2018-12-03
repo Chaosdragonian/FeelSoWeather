@@ -372,12 +372,12 @@
         "source": "/Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/18b160f610b87224eb87da71a4f9fbd1/res/drawable/mr_group_expand.xml"
     },
     {
-        "merged": "/Users/chaosdragon/developer/FeelSoWeather/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "/Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/437de1e166c625c7602fe3128cc1c1c5/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/chaosdragon/developer/FeelSoWeather/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_cast_ic_notification_0.png.flat",
         "source": "/Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/0ae21aff1986a33e3ebe394dab712e19/res/drawable-xhdpi-v4/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/Users/chaosdragon/developer/FeelSoWeather/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/437de1e166c625c7602fe3128cc1c1c5/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/chaosdragon/developer/FeelSoWeather/app/build/intermediates/res/merged/debug/drawable_cast_mini_controller_gradient_light.xml.flat",
@@ -816,12 +816,12 @@
         "source": "/Users/chaosdragon/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/18b160f610b87224eb87da71a4f9fbd1/res/drawable-xxhdpi-v4/ic_vol_type_speaker_dark.png"
     },
     {
-        "merged": "/Users/chaosdragon/developer/FeelSoWeather/app/build/intermediates/res/merged/debug/drawable_sooo.png.flat",
-        "source": "/Users/chaosdragon/developer/FeelSoWeather/app/src/main/res/drawable/sooo.png"
-    },
-    {
         "merged": "/Users/chaosdragon/developer/FeelSoWeather/app/build/intermediates/res/merged/debug/layout_activity_2.xml.flat",
         "source": "/Users/chaosdragon/developer/FeelSoWeather/app/src/main/res/layout/activity_2.xml"
+    },
+    {
+        "merged": "/Users/chaosdragon/developer/FeelSoWeather/app/build/intermediates/res/merged/debug/drawable_sooo.png.flat",
+        "source": "/Users/chaosdragon/developer/FeelSoWeather/app/src/main/res/drawable/sooo.png"
     },
     {
         "merged": "/Users/chaosdragon/developer/FeelSoWeather/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_dialog_close_dark.png.flat",

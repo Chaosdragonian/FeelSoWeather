@@ -3,10 +3,12 @@ package com.wonju.yonsei.feelsoweather;
 import android.Manifest;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
+import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Parcelable;
@@ -20,7 +22,14 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import org.w3c.dom.Text;
+
+import java.text.SimpleDateFormat;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -28,6 +37,21 @@ public class MainActivity extends AppCompatActivity {
     double lon, lat;
     TabLayout sliding_tab;
     ViewPager pager;
+
+    TextView City;
+    TextView nowTemperature;
+    TextView todayTemp;
+    TextView nowTemp;
+    TextView todayDate;
+    TextView cloudPercent;
+    TextView rainPercent;
+
+    TextView howmuchBad;
+    TextView dustDate;
+    TextView dustBad;
+    ImageView mark;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,6 +80,8 @@ public class MainActivity extends AppCompatActivity {
         lastLocation = firstSetLocation();
         lon = lastLocation.getLongitude();
         lat = lastLocation.getLatitude();
+
+
 
 
     }
@@ -189,16 +215,57 @@ public class MainActivity extends AppCompatActivity {
         }
 
         @Override
-        public Object instantiateItem(View view, int position) {
+        public Object instantiateItem(ViewGroup container , int position) {
 
             View v = null;
 
             if (position == 0) {
                 v = mInflater.inflate(R.layout.activity_1, null);
+                dustDate = (TextView)v.findViewById(R.id.now);
+                dustDate.setText(SplashActivity.todayDateString);
+                dustBad = (TextView)v.findViewById(R.id.poll);
+                String dustTemp = (String.format("미세먼지 농도 : %s",SplashActivity.dust));
+                dustBad.setText(dustTemp);
+                howmuchBad = (TextView)v.findViewById(R.id.cool);
+                mark = (ImageView) v.findViewById(R.id.feeel);
+                if (Integer.parseInt(SplashActivity.dust) <=30){
+                    howmuchBad.setText("좋음");
+                    mark.setImageResource(R.drawable.good);
+                }
+                else if (31<Integer.parseInt(SplashActivity.dust) && Integer.parseInt(SplashActivity.dust)<=80){
+                    howmuchBad.setText("보통");
+                    mark.setImageResource(R.drawable.soso);
 
+                }
+                else if (81<Integer.parseInt(SplashActivity.dust) && Integer.parseInt(SplashActivity.dust)<=150){
+                    howmuchBad.setText("나쁨");
+                    mark.setImageResource(R.drawable.bad);
+
+                }
+                else if (151<Integer.parseInt(SplashActivity.dust)){
+                    howmuchBad.setText("매우나쁨");
+                    mark.setImageResource(R.drawable.badbad);
+
+                }
             }
             else if (position == 1) {
+
                 v = mInflater.inflate(R.layout.activity_2, null);
+
+                City = (TextView)v.findViewById(R.id.city);
+                nowTemperature = (TextView)v.findViewById(R.id.noww);
+                todayTemp = (TextView)v.findViewById(R.id.today);
+                todayDate = (TextView)v.findViewById(R.id.tod);
+               // rainPercent = (TextView)findViewById(R.id.kang);
+                cloudPercent = (TextView)v.findViewById(R.id.cloud);
+
+                City.setText(SplashActivity.CityString);
+                nowTemperature.setText(SplashActivity.nowTemperatureString);
+                todayTemp.setText(SplashActivity.todayTempString);
+                todayDate.setText(SplashActivity.todayDateString);
+               // rainPercent.setText(rainPercentString);
+                cloudPercent.setText(SplashActivity.cloudPercentString);
+
 
             }
             else if (position == 2){
@@ -208,8 +275,8 @@ public class MainActivity extends AppCompatActivity {
                 v.findViewById(R.id.button3).setOnClickListener(mButtonClick);
             }
 
-            ((ViewPager) view).addView(v, 0);
-
+           // ((ViewPager) view).addView(v, 0);
+            pager.addView (v,0);
             return v;
         }
 
@@ -220,7 +287,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         @Override
-        public void destroyItem(View view, int positionm, Object object) {
+        public void destroyItem(View view, int position, Object object) {
             ((ViewPager)view).removeView((View)view);
         }
         @Override
@@ -234,6 +301,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
 }
 
 
