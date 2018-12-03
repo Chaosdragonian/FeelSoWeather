@@ -24,9 +24,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.wonju.yonsei.feelsoweather.Activity1" />
-        <activity android:name="com.wonju.yonsei.feelsoweather.Activity2" />
-        <activity android:name="com.wonju.yonsei.feelsoweather.Activity3" />
     </application>
 
 </manifest>
