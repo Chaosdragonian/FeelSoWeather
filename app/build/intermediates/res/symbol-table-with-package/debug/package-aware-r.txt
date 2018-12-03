@@ -694,6 +694,7 @@ color wallet_holo_blue_light
 color wallet_link_text_light
 color wallet_primary_text_holo_light
 color wallet_secondary_text_holo_dark
+color white
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -980,6 +981,8 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable bad
+drawable badbad
 drawable cast_abc_scrubber_control_off_mtrl_alpha
 drawable cast_abc_scrubber_control_to_pressed_mtrl_000
 drawable cast_abc_scrubber_control_to_pressed_mtrl_005
@@ -1059,6 +1062,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable good
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_audiotrack_dark
@@ -1210,6 +1214,7 @@ drawable ic_vol_type_speaker_group_light
 drawable ic_vol_type_speaker_light
 drawable ic_vol_type_tv_dark
 drawable ic_vol_type_tv_light
+drawable map
 drawable mr_button_connected_dark
 drawable mr_button_connected_light
 drawable mr_button_connecting_dark
@@ -1245,6 +1250,7 @@ drawable places_ic_clear
 drawable places_ic_search
 drawable powered_by_google_dark
 drawable powered_by_google_light
+drawable purple
 drawable quantum_ic_art_track_grey600_48
 drawable quantum_ic_bigtop_updates_white_24
 drawable quantum_ic_cast_connected_white_24
@@ -1286,8 +1292,16 @@ drawable quantum_ic_volume_off_grey600_36
 drawable quantum_ic_volume_off_white_36
 drawable quantum_ic_volume_up_grey600_36
 drawable quantum_ic_volume_up_white_36
+drawable rain
+drawable ress
+drawable snow
+drawable soo
+drawable sooo
+drawable soso
+drawable sunn
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable weatherr
 id ALT
 id CTRL
 id FUNCTION
@@ -1314,6 +1328,7 @@ id action_mode_close_button
 id action_text
 id actions
 id activity_chooser_view_content
+id activity_main
 id ad_container
 id ad_image_view
 id ad_in_progress_label
@@ -1340,6 +1355,9 @@ id blurred_background_image_view
 id book_now
 id bottom
 id button
+id button1
+id button2
+id button3
 id buttonPanel
 id button_0
 id button_1
@@ -1370,9 +1388,11 @@ id center_vertical
 id chains
 id checkbox
 id chronometer
+id city
 id classic
 id clip_horizontal
 id clip_vertical
+id cloud
 id collapseActionView
 id contact
 id container
@@ -1380,6 +1400,7 @@ id container_all
 id container_current
 id contentPanel
 id controllers
+id cool
 id coordinator
 id crash_reporting_present
 id custom
@@ -1411,6 +1432,8 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_controller_layout
 id expanded_menu
+id feeel
+id feel
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1447,6 +1470,7 @@ id intent_extra_data
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id kang
 id largeLabel
 id large_icon_uri
 id left
@@ -1459,7 +1483,6 @@ id live_stream_indicator
 id live_stream_seek_bar
 id loading_indicator
 id logo_only
-id mList
 id masked
 id match_global_nicknames
 id match_parent
@@ -1501,6 +1524,8 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id now
+id noww
 id omnibox_title_section
 id omnibox_url_section
 id packed
@@ -1519,6 +1544,7 @@ id place_autocomplete_search_button
 id place_autocomplete_search_input
 id place_autocomplete_separator
 id plain
+id poll
 id production
 id progressBar
 id progress_circular
@@ -1584,13 +1610,13 @@ id tab_host
 id tag_transition_group
 id terrain
 id test
-id testtext
 id text
 id text1
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textTitle
+id textView1
 id text_input_password_toggle
 id text_list_view
 id textinput_counter
@@ -1601,6 +1627,8 @@ id title
 id titleDividerNoCustom
 id title_template
 id title_view
+id tod
+id today
 id toolbar
 id top
 id topPanel
@@ -1618,6 +1646,8 @@ id viewPager
 id view_offset_helper
 id visible
 id volume_item_container
+id weather
+id weatherr
 id wide
 id withText
 id wrap
@@ -1666,6 +1696,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_1
+layout activity_2
+layout activity_3
 layout activity_main
 layout activity_splash
 layout cast_expanded_controller_activity
@@ -1688,9 +1721,7 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
-layout fragment_fragment1
-layout fragment_fragment2
-layout fragment_fragment3
+layout dialog
 layout mr_chooser_dialog
 layout mr_chooser_list_item
 layout mr_controller_material_dialog_b
@@ -1814,6 +1845,10 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string default_city_name
+string default_details
+string default_temperature
+string default_updated
 string fcm_fallback_notification_channel_label
 string hello_blank_fragment
 string mr_button_content_description

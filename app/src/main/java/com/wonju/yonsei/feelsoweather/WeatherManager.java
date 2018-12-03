@@ -1,5 +1,7 @@
 package com.wonju.yonsei.feelsoweather;
 
+import android.location.Location;
+
 import java.net.URL;
 
 import okhttp3.OkHttpClient;
@@ -58,6 +60,50 @@ public class WeatherManager {
             throw new WeatherException("HTTP GET failed", ex);
         }
 
+    }
+    public WeatherResponse getWeatherByCityName(String cityName) throws WeatherException {
+        return getWeather("q=" + cityName);
+    }
+
+    /**
+     * Retrieve the weather based on an internal city ID
+     * @param id the city ID
+     * @return the WeatherResponse object
+     * @throws WeatherException if the request could not be completed
+     */
+    public WeatherResponse getWeatherByCityId(long id) throws WeatherException {
+        return getWeather("id=" + id);
+    }
+
+    /**
+     * Retrieve the weather by GPS coordinates
+     * @param longitude The longitude
+     * @param latitude The latitude
+     * @return the WeatherResponse object
+     * @throws WeatherException if the request could not be completed
+     */
+    public WeatherResponse getWeatherByGps(double longitude, double latitude) throws WeatherException {
+        return getWeather("lat=" + latitude + "&lon=" + longitude);
+    }
+
+    /**
+     * Retrieve the weather by GPS coordinates
+     * @param location the GPS location
+     * @return the WeatherResponse object
+     * @throws WeatherException if the request could not be completed
+     */
+    public WeatherResponse getWeatherByGps(Location location) throws WeatherException {
+        return getWeatherByGps(location.getLatitude(), location.getLongitude());
+    }
+
+    /**
+     * Retrieve the weather for a ZIP code
+     * @param zipcode the ZIP code to use in retrieval
+     * @return the WeatherResponse object
+     * @throws WeatherException if the request could not be completed
+     */
+    public WeatherResponse getWeatherByZipCode(String zipcode) throws WeatherException {
+        return getWeather("zip=" + zipcode);
     }
 
 }

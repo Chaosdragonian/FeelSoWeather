@@ -231,7 +231,7 @@ MERGED from [com.android.support:palette-v7:25.2.0] /Users/chaosdragon/.gradle/c
 	android:allowBackup
 		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:15:9-59
 activity#com.wonju.yonsei.feelsoweather.MainActivity
 ADDED from /Users/chaosdragon/developer/FeelSoWeather/app/src/main/AndroidManifest.xml:16:9-18:20
 	android:name
